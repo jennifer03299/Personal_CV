@@ -5,8 +5,8 @@
 
 ## Jquery
 裡面呼叫jquery都是下載自網路的插件：
-* [link](http://markdalgleish.com/projects/stellar.js/)
-* [link](https://wowjs.uk/)
-* [link](https://fancyapps.com/fancybox/3/)
-* [link](https://snapwidget.com/)
-* [link](https://codepen.io/gschier/pen/jkivt)
+* [Stellar](http://markdalgleish.com/projects/stellar.js/)
+* [Wow Animation](https://wowjs.uk/)
+* [FancyBox](https://fancyapps.com/fancybox/3/)
+* [Snapwidget](https://snapwidget.com/)
+* [Simple Typing Carousel](https://codepen.io/gschier/pen/jkivt)
